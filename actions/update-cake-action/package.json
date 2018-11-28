@@ -1,0 +1,9 @@
+{
+	"name": "update-cake-action",
+	"description": "Update a cake",
+	"version": "1.0.0",
+	"main": "index.js",
+	"dependencies": {
+		"promise-mysql": "3.0.1"
+	}
+}
